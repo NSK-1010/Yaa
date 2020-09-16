@@ -1,5 +1,4 @@
 # やあ
-# やあ
 loop {
 print >
 command = gets.chomp
@@ -21,3 +20,4 @@ elsif command == "exit" then
 else
   puts "おうおうおうおう"
 end
+}
